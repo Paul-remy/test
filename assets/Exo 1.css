@@ -1,0 +1,69 @@
+h1 {
+    color:red
+    
+}
+
+span {
+    font-weight: bold;
+}
+
+.container {
+    width: 500px;
+    margin-left: auto;
+    margin-right:auto;
+    padding: 40px;
+
+}
+.title { 
+    width: 200px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img { 
+    width: 1000px;
+    height: 300px;
+    margin-left: -400px;
+    margin-right: 0px;
+    border-radius: 12px;
+    
+
+}
+
+footer {width: 300px;
+margin-right: auto;
+margin-left: auto;
+}
+
+body {
+    background: linear-gradient(darksalmon, orange);
+
+}
+
+.encadrement {
+    border-width: 3px;
+    border-style: solid;
+    border-color:pink;
+
+}
+
+header h1, nav, footer {
+    width: 400px;
+    background-color: salmon;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+header {
+   
+}
+Nav a {
+    margin-right: 12px;
+    font-size: 28px;
+    text-decoration: none
+
+    ;
+
+}
+
